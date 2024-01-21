@@ -17,3 +17,7 @@ SDK: An SDK is a comprehensive package of tools, libraries, sample code, and doc
 The choice between APIs and SDKs depends on the development goals and requirements of the project.
 
 ![image](https://github.com/shaqse/api-vs-sdk/assets/40408677/71f85dce-cf3f-41e3-b233-8b01093ef38f)
+
+Discussion
+
+https://www.linkedin.com/feed/update/urn:li:activity:7151615131045568513/
